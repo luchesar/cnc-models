@@ -1,5 +1,5 @@
 ( 3.Drilling-3mm-10000rpm )
-( File created: Saturday April 01 2023 - 06:30 PM)
+( File created: Monday April 03 2023 - 02:49 PM)
 ( for Mach2/3 from Vectric )
 ( Material Size)
 ( X= 455.000, Y= 760.000, Z= 11.500)
