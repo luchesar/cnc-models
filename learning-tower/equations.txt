@@ -1,0 +1,3 @@
+﻿"D20@Sketch1" = "plyWidth"
+"D24@Sketch1" = "plyWidth" / 2
+"plyWidth" = 11.4
